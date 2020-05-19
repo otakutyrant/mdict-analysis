@@ -1,3 +1,3 @@
 if __name__ == '__main__':
-    import readmdict.main
-    readmdict.main()
+    from readmdict import main
+    main()
