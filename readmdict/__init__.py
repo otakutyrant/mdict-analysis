@@ -597,7 +597,7 @@ class MDX(MDict):
         f.close()
 
 
-if __name__ == '__main__':
+def main():
     import sys
     import os
     import os.path
